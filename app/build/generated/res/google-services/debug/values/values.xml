@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">41002448040-volcau64san709oelap9gmadiag80ggl.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">41002448040</string>
+    <string name="google_api_key" translatable="false">AIzaSyBs47OOI_E9HSSd8-or3WrtUCpfAme7U1I</string>
+    <string name="google_app_id" translatable="false">1:41002448040:android:7e586c067444685fa4fe9d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBs47OOI_E9HSSd8-or3WrtUCpfAme7U1I</string>
+    <string name="google_storage_bucket" translatable="false">hivlessph-b5f51.appspot.com</string>
+    <string name="project_id" translatable="false">hivlessph-b5f51</string>
+</resources>
