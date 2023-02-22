@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41002448040",
+    "project_id": "hivlessph-b5f51",
+    "storage_bucket": "hivlessph-b5f51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41002448040:android:7e586c067444685fa4fe9d",
+        "android_client_info": {
+          "package_name": "com.sti.hivlessph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41002448040-volcau64san709oelap9gmadiag80ggl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs47OOI_E9HSSd8-or3WrtUCpfAme7U1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41002448040-volcau64san709oelap9gmadiag80ggl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
